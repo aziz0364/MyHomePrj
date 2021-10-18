@@ -1,0 +1,8 @@
+.note-container{
+    width: 200px; height: 200px; display: inline-block; border: 2px solid gray; margin: 5px; position: relative;
+}
+
+.btn-delete{
+    position: absolute; bottom: 6px; right: 6px;
+}
+
